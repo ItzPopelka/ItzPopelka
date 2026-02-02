@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=635&lines=Hi%2C+%20%F0%9F%91%8B%20+I%27m+Franti%C5%A1ek+Vojta+also+known+as+xCel_dev" alt="Typing Effect" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sup%2C+Im+ItzPopelka.+Minecraft+and+dicorrd+developer" alt="Typing SVG" /></a>
 </div>
 
 ---
