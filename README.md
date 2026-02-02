@@ -4,23 +4,23 @@
 
 ---
 
-##### https://frantisekvojta.cz
+##### https://popelka.netlify.app/
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Passionate about **web development**, **mobile apps**, and **backend systems**
-- 🌱 Constantly learning new tech and improving my workflow
-- 🧩 Love solving problems and building meaningful digital tools
-- 🐧 Operating System: **Arch Linux + Hyprland with meowrch** (yes… I use Arch btw 😎)
-- 🎮 Enjoy creating tools for communities — Discord bots, automation, setups
-- 🚀 Focused on becoming a strong full-stack & application developer
+- I make websites, beginner MC plugins and skripts, Discord bots, and full web apps
+- For my operating system, I use Cachyos and Windows in a dual-boot setup
+- Enjoy creating tools for communities — Discord bots, automation, setups
+- Focused on becoming a java developer
 
 ---
 
 ## 🚀 I'm currently working on
-- Advanced **Discord bot** with anti-raid protection  
-- ...
+- Learning java
+- PlayOS (Custom windows iso)
+- Custom advanced discord raidbot
+- Myself
 
 
 ---
@@ -39,17 +39,17 @@
 
 <div align="center">
 
-<a href="mailto:vojta.fran@gmail.com">
+<a href="mailto:popelka_dev@seznam.cz">
   <img src="https://img.shields.io/badge/Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
-<a href="https://frantisekvojta.cz">
+<a href="https://popelka.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 
-<a href="https://discord.com/users/YOUR_ID_HERE">
+<a href="https://discord.com/users/903247584192241694">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
