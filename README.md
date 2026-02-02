@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sup%2C+Im+ItzPopelka.+Minecraft+and+dicorrd+developer." alt="Typing SVG" /></a>
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Sup%2C+ImItzPopelka.+Minecraft+and+dicord+developer.%22%2C%22color%22%3A%22%2300e1ff%22%2C%22fontSize%22%3A35%2C%22typingSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D" alt="Typing SVG" /></a>
 </div>
 
 ---
