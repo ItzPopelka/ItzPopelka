@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sup%2C+Im+ItzPopelka.+Minecraft+and+dicorrd+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sup%2C+Im+ItzPopelka.+Minecraft+and+dicorrd+developer." alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css,js,mysql,php,arch,figma,laravel,ionic,hyprland&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,java,discord&theme=light" />
 
 </div>
 
