@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=2000&backgroundOpacity=0&lines=%5B%7B%22text%22%3A%22Sup%2C+Im+ItzPopelka.+Minecraft+and+dicord+developer.%22%2C%22color%22%3A%22%2300e1ff%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D" alt="Typing SVG" /></a>
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Sup+G%C2%B4s%21+Im+ItzPopelka%2C+Python+and+java+developer.%22%2C%22color%22%3A%22%230084ff%22%2C%22typingSpeed%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
 </div>
 
 ---
