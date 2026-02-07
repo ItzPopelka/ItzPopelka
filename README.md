@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 - I make websites, beginner MC plugins and skripts, Discord bots, and full web apps
-- For my operating system, I use Cachyos and Windows in a dual-boot setup
+- For my operating system, I use Windows and Fedora in a dual-boot setup
 - Enjoy creating tools for communities — Discord bots, automation, setups
 - Focused on becoming a java developer
 
