@@ -4,7 +4,7 @@
 
 ---
 
-##### https://popelka.netlify.app/
+##### https://itzpopelka.github.io/
 
 ---
 
