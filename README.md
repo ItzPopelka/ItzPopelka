@@ -17,8 +17,7 @@
 ---
 
 ## 🚀 I'm currently working on
-- Learning java
-- PlayOS (Custom windows iso)
+- Learning java, denizen, skript, resource packs and general minecraft development
 - Custom advanced discord raidbot
 - Myself
 
