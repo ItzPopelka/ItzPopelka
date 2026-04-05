@@ -9,17 +9,14 @@
 ---
 
 ## 🧑‍💻 About Me
-- I make websites, beginner MC plugins and skripts, Discord bots, and full web apps
-- For my operating system, I use Windows and Fedora in a dual-boot setup
-- Enjoy creating tools for communities — Discord bots, automation, setups
-- Focused on becoming a java developer
-
+- I do frontend for web apps (React and Vite)
+- I use dualboot Fedora (Kde Plasma) & Windows 11
 ---
 
 ## 🚀 I'm currently working on
-- Learning java, denizen, skript, resource packs and general minecraft development
-- Custom advanced discord raidbot
-- Myself
+- Myself irl
+- Raidbot in discord.py
+- https://shivtanium.eu as admin and developer
 
 
 ---
@@ -28,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,java,discord&theme=light" />
+<img src="https://skillicons.dev/icons?i=idea,java,react,python,linux&theme=dark" />
 
 </div>
 
