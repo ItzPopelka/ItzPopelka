@@ -4,7 +4,7 @@
 
 ---
 
-##### [https://itzpopelka.github.io/](https://itzpopelka.github.io/)
+##### [https://itzpopelka.vercel.app](https://itzpopelka.vercel.app/)
 
 ---
 
@@ -43,7 +43,7 @@
 </a>
 
 
-<a href="https://itzpopelka.github.io/">
+<a href="https://itzpopelka.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
