@@ -10,7 +10,8 @@
 
 ## 🧑‍💻 About Me
 - I do frontend for web apps (React and Vite)
-- I use dualboot Fedora (Kde Plasma) & Windows 11
+- I create minecraft plugins
+- I use dualboot Fedora (Hyprland) & Windows 11
 ---
 
 ## 🚀 I'm currently working on
