@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 - I do frontend for web apps (React and Vite)
 - I create minecraft plugins
-- I use dualboot Fedora (Hyprland) & Windows 11
+- I use Omarchy
 ---
 
 ## 🚀 I'm currently working on
